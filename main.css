@@ -266,7 +266,7 @@ a:hover{
     font-size: calc(((.52vw + .9259vh) / 2) * 18);
     line-height:1em;
     font-family:"freight-display-pro", freight, serif;
-    text-align:right;
+    text-align:left;
     font-weight:normal;
     letter-spacing:0.015em;
     position:relative;
